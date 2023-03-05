@@ -139,7 +139,6 @@ overflow-x: hidden;
 }
 
 section{
-  margin-top: 40px;
   width: 100%;
   display: none;
   align-items: center;
@@ -196,7 +195,7 @@ background: linear-gradient(to left,rgba(0, 0, 0,.1)0%, rgba(0, 0, 0, 0.7)96%); 
   align-items: center;
   justify-content: space-around;
   flex-direction: column;
-  margin-top: 50px;
+  margin-top: 10px;
 
 }
 .deatail-box{
